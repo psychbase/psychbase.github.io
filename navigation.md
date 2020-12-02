@@ -1,3 +1,3 @@
 #usona prior art project
 
-[Home](psilocybin.md)
+[Home](index.md)
