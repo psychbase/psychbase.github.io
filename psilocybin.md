@@ -4,7 +4,7 @@
 
 **CAS** 520-52-5
 
-![psilocybin structure](images/psilocybin.jpg)
+![psilocybin structure](./images/psilocybin.svg)
 
 &nbsp;
 
