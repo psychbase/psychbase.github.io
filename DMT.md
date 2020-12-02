@@ -12,7 +12,7 @@
 and setting). The most remarkable aspect of the effects was the rapid onset (2-5 minutes) and short duration (30-60 minutes). These effects have been replicated by a number of independent groups of investigators (Turner and Merlis 1959; Rosenberg et al 1963; Gillin et al, 1976; Strassman et al 1994).
 
 *DMT at Fifty*  
-Stephen Szara *Neuropsychopharmacologia Hungarica* (2007) **IX/4**: 201-205
+Stephen Szara (2007) *Neuropsychopharmacologia Hungarica* **IX/4**: 201-205
 
 &nbsp;
 
