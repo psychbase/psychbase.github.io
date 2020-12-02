@@ -16,7 +16,7 @@
 
 ![5-MeO-DMT structure](./images/5-MeO-DMT.png)
 
-**It has been known since 1959 that 5-MeO-DMT is a natural product found in the bark of *Dictyoloma incanescens***
+**It was known no later than 1959 that 5-MeO-DMT is a natural product found in the bark of *Dictyoloma incanescens***
 
 >The bark of the Brazilian tree *Dictyoloma incanescens* D.C. yielded a new alkaloid, N,N-dimethyl-5-methoxytryptamine
 
@@ -27,7 +27,7 @@ Pachter IJ, Zacharias DE, Ribeiro O *J Org Chem* (1959) **24**:1285–1287
 
 **Hoshino and Shimodaira reported synthesis of 5-MeO-DMT in 1936**
 
-ÜBER DIE SYNTHESE DES BUFOTENIN-METHYL-ÄTHERS (5-METHOXY-N-DIMETHYL-TRYPTAMIN) UND BUFOTENINS (SYNTHESEN IN DER INDOL-GRUPPE. XV)  
+*ÜBER DIE SYNTHESE DES BUFOTENIN-METHYL-ÄTHERS (5-METHOXY-N-DIMETHYL-TRYPTAMIN) UND BUFOTENINS (SYNTHESEN IN DER INDOL-GRUPPE. XV)*  
 
-ABOUT THE SYNTHESIS OF BUFOTENIN METHYL ETHER (5-METHOXY-N-DIMETHYL-TRYPTAMINE) AND BUFOTENIN (SYNTHESIS IN THE INDOL GROUP. XV)  
+*ABOUT THE SYNTHESIS OF BUFOTENIN METHYL ETHER (5-METHOXY-N-DIMETHYL-TRYPTAMINE) AND BUFOTENIN (SYNTHESIS IN THE INDOL GROUP. XV)*  
 Hoshino T, Shimodaira K *Bull Chem Soc Japan* (1936) **11**: 221; Chem Abstr (1936) **30**: 5982
