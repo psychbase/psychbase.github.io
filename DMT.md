@@ -8,11 +8,15 @@
 
 **The psychotropic effects of DMT were studied scientifically by Stephen Szára in clinical studies performed in the 1950s**
 
+>I was joined by three other psychiatrists András Sai-Halász, Zoltán Böszörményi, and Györgyi Brunecker who helped me to recruit, and test
+about 30 volunteers. In agreement with my coworkers, I sent in a short, preliminary report to the Swiss journal Experientia in the summer of 1956
+before the Hungarian Revolution happened (Szára, 1956). The full reports appeared only two years later (Sai-Halász, Brunecker and Szára, 1958; Böszörményi and Szára, 1958).
+
 >The effects of a medium effective dose (0.7 mg/kg) given  intramuscularly, were similar to those of mescaline and LSD: visual illusions and hallucinations, distortion of body image, speech disturbances, and mood changes: euphoria or anxiety (depending on set
 and setting). The most remarkable aspect of the effects was the rapid onset (2-5 minutes) and short duration (30-60 minutes). These effects have been replicated by a number of independent groups of investigators (Turner and Merlis 1959; Rosenberg et al 1963; Gillin et al, 1976; Strassman et al 1994).
 
 *DMT at Fifty*  
-Stephen Szara (2007) *Neuropsychopharmacologia Hungarica* **IX/4**: 201-205
+Stephen Szára (2007) *Neuropsychopharmacologia Hungarica* **IX/4**: 201-205
 
 &nbsp;
 
