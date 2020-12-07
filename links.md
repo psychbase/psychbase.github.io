@@ -14,3 +14,5 @@
 [Multidisciplinary Association for Psychedelic Studies](https://maps.org/)
 
 [The Conclave](https://theconclave.info/)
+
+[PsychonautWiki](https://psychonautwiki.org/wiki/PsychonautWiki)
