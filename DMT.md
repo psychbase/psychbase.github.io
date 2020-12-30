@@ -1,4 +1,4 @@
-#DMT
+#DMT / 5-MeO-DMT
 
 **IUPAC** 2-(1H-Indol-3-yl)-N,N-dimethylethanamine
 
