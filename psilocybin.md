@@ -10,8 +10,7 @@
 
 **IUPAC** 3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol
 
-**CAS** 	
-520-53-6
+**CAS** 520-53-6
 
 ![psilocin structure](./images/psilocin.png)
 
