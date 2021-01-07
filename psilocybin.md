@@ -38,7 +38,7 @@ Hofmann A, Frey A, Ott H, Petrzilka T, Troxler F. (1958) *Experientia* **14**: 3
 
 &nbsp;
 
-**Sherwood reported an improved synthesis of psilocybin**
+**Sherwood reported an improved, scalable synthesis of psilocybin**
 >Described herein is an improved synthesis of 3-[2-(dimethylamino)ethyl]-1H-indol-4-yl dihydrogen phosphate (psilocybin). The protocol outlines: synthesis of multigram quantities of psilocybin, identification of critical in-process parameters, and isolation of psilocybin without the use of chromatography, TLC, or aqueous workup. The synthesis furnishes psilocybin in five steps in 23% overall yield from an inexpensive acetoxyindole starting material. With specific focus on process control and impurity fate and removal, the improved procedure is amenable to providing high-quality psilocybin.
 
 *An improved, practical, and scalable five-step synthesis of psilocybin*  
