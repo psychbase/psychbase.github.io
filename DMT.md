@@ -41,5 +41,14 @@ Pachter IJ, Zacharias DE, Ribeiro O (1959) *J Org Chem*  **24**:1285–1287
 *ABOUT THE SYNTHESIS OF BUFOTENIN METHYL ETHER (5-METHOXY-N-DIMETHYL-TRYPTAMINE) AND BUFOTENIN (SYNTHESIS IN THE INDOL GROUP. XV)*  
 Hoshino T, Shimodaira K (1936) *Bull Chem Soc Japan* **11**: 221; Chem Abstr (1936) **30**: 5982
 
+&nbsp;
 
+**Sherwood reported synthesis of 5-MeO-DMT succinate for clinical use**
+
+>To support clinical use, a multigram-scale process has been developed to provide 5-MeO-DMT, a psychedelic natural product found in the parotid gland secretions of the toad, Incilius alvarius. Several synthetic routes were initially explored, and the selected process featured an optimized Fischer indole reaction to 5-MeO-DMT freebase in high-yield, from which the 1:1 succinate salt was produced to provide 136 g of crystalline active pharmaceutical ingredient (API) with 99.86% peak area by highperformance liquid chromatography (HPLC) and a net yield of 49%. The report provides in-process monitoring, validated analytical methods, impurity formation and removal, and solidstate characterization of the API essential for subsequent clinical development.
+
+*Synthesis and characterization of 5-MeO-DMT succinate for clinical use*  
+Sherwood A, Claveau R, Lancelotta R, Kaylo K, Lenoch K (2020) *ACS Omega* **5**: 32067−75 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33344861/)
+
+&nbsp;
 
