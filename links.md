@@ -1,6 +1,4 @@
 #links
-[Usona Institute](https://www.usonainstitute.org/)
-
 [erowid](https://erowid.org/)
 
 [The Conclave](https://theconclave.info/)
