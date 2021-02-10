@@ -13,6 +13,8 @@
 
 [The Nexian](https://the-nexian.me/)
 
+[Psilocybin Alpha](https://psilocybinalpha.com/)
+
 [Psychedelic Patents](https://psychedelicpatents.com/)
 
 [Psychedelic Spotlight](https://www.psychedelicspotlight.com/)
