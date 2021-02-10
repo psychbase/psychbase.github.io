@@ -1,6 +1,6 @@
 #psychbase
 
-[Home](index.md)
-[Links](links.md)
-[About](about.md)
-[Contact](contact.md)
+[Home](index.md)  
+[Links](links.md)  
+[About](about.md)  
+[Contact](contact.md)  
