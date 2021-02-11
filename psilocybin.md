@@ -26,7 +26,7 @@ Hofmann A, Heim R, Brack A, Kobel H *Experientia* (1958) **14**: 107-9 [PubMed](
 **Psilocybin is produced by multiple genera of mushrooms, where it is present in amounts of approximately 1% by dry weight**  
 
 *Psilocybin and psilocin levels in twenty species from seven genera of wild mushrooms in the Pacific Northwest, USA*  
-Beug MW, Bigwood J (1982) *J Ethnopharmacol* **5**: 271–85.  
+Beug MW, Bigwood J (1982) *J Ethnopharmacol* **5**: 271–85 [PubMed](https://pubmed.ncbi.nlm.nih.gov/7201053/)  
 
 &nbsp;
 
@@ -83,7 +83,7 @@ Hasler F, Bourquin D, Brenneisen R, Bar T, Vollenweider FX (1997) *Pharm Acta He
 
 **Psilocin targets serotonin 5-HT2A receptors**  
 *Psychedelics*  
-Nichols DE (2016) *Pharm Rev* **68**: 264–355
+Nichols DE (2016) *Pharm Rev* **68**: 264–355 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26841800/)  
 
 &nbsp;
 
@@ -100,7 +100,7 @@ Nichols DE (2016) *Pharm Rev* **68**: 264–355
 >Since 1980 ... there have been about 200 published reports focused on various aspects of psilocybin pharmacology, chemistry, and biochemistry as well as careful studies in humans. Starting in 1996 and up to the present time, increasing numbers of reports have appeared of studies of the effects of psilocybin on human perception, emotion, and psychopharmacology. Among those are 112 reported studies of psilocybin in humans, including recent therapeutic trials in depression, anxiety, and substance use disorders  
 
 *Psilocybin: from ancient magic to modern medicine*  
-Nichols DE (2020) *J Antibiot (Tokyo)* **73**: 679–86
+Nichols DE (2020) *J Antibiot (Tokyo)* **73**: 679–86 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32398764/)  
 
 &nbsp;
 
