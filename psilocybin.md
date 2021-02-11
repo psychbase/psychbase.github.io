@@ -51,6 +51,9 @@ Sherwood A, Meisenheimer P, Tarpley G, Kargbo R (2020) *Synthesis* **52**: 688â€
 *Psilocybin, Its History and Pharmacology*  
 (1960) *Can Med Assoc J* **82**(18): 936 [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1938103/)
 
+*Teonanacatl and psilocybin*  
+Cerletti A. (1959) *Dtsch Med Wochenschr* **84**: 2317-21 [PubMed](https://pubmed.ncbi.nlm.nih.gov/13808846/)
+
 &nbsp;
 
 **A typical oral dose of *Psilocybe mexicana* is approximately 2 g of dried mushrooms, which provides approximately 4â€“8 mg of psilocybin**  
