@@ -1,5 +1,4 @@
-  
-#compounds
+##compounds
 
 [psilocybin](psilocybin.md)
 
@@ -9,7 +8,7 @@
 
 &nbsp;
 
-#topics
+##topics
 
 [microdosing](microdosing.md)
 
