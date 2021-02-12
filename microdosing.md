@@ -1,4 +1,4 @@
-##microdosing
+#microdosing
 
 **Milligram doses of psilocybin have effects on humans**
 >Small doses of a few milligrams produce within 20 to 30 minutes both somatic and mental changes. The somatic effects are mainly neurovegetative, such as mydriasis, hyperreflexia, hypertension or hypotension, changed pulse frequency, etc. In small doses the drug produces a change in mood and in contact with the environment which is subjectively pleasant and consists of relaxation and detachment from the outside world. In higher doses, changes in orientation and psychosensory phenomena develop, such as visual hypernesthesia, illusions and hallucinations. They are, however, not as frequent as those following lysergic acid-diethylamide and especially following mescaline.

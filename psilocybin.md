@@ -1,4 +1,4 @@
-##psilocybin
+#psilocybin
 
 **IUPAC** [3-(2-Dimethylaminoethyl)-1H-indol-4-yl] dihydrogen phosphate
 
@@ -6,7 +6,7 @@
 
 ![psilocybin structure](./images/psilocybin.png)
 
-##psilocin
+#psilocin
 
 **IUPAC** 3-[2-(Dimethylamino)ethyl]-1H-indol-4-ol
 
