@@ -1,3 +1,5 @@
+#library
+
 #compounds
 
 [psilocybin](psilocybin.md)
