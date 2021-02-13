@@ -37,7 +37,7 @@ Fadiman at chapter entitled “Can sub-perceptual doses of psychedelics improve 
 
 &nbsp;
 
-Griffiths administered low doses of psilocybin to humans as a placebo in studying the effects of high doses of psilocybin to treat depression and anxiety
+**Griffiths administered low doses of psilocybin to humans as a placebo in studying the effects of high doses of psilocybin to treat depression and anxiety**
 
 *Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial*  
 Griffiths (2016) *Journal of Psychopharmacology* **30**(12) 1181–1197
