@@ -1,3 +1,5 @@
+#library
+
 #compounds
 
 [psilocybin](psilocybin.md)
@@ -17,6 +19,8 @@ combinations
 administration
 
 set and setting
+
+synthesis and production
 
 
 
