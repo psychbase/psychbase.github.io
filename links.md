@@ -3,6 +3,8 @@
 
 [The Conclave](https://theconclave.info/)
 
+[Isomer Design](https://isomerdesign.com/Home/)
+
 [Johns Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
 
 [The Medicinal Mushroom Dispensary](https://mushroomdispensary.com/)
